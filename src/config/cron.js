@@ -20,7 +20,7 @@ export default job;
 // How to define a "Schedule"?
 // You define a schedule using a cron expression, which consists of 5 fields representing:
 
-//! MINUTE, HOUR, DAY OF THE MONTH, MONTH, DAY OF THE WEEK
+//! MINUTE, HOUR, DAY OF THE  MONTH, MONTH, DAY OF THE WEEK
 
 //? EXAMPLES && EXPLANATION:
 //* 14 * * * * - Every 14 minutes
