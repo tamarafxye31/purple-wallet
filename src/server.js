@@ -21,7 +21,7 @@ app.use(express.json());
 const PORT = process.env.PORT || 3000;
 
 app.get("/api/health", (req, res) => {
-    res.status(200).json({ status: "API is running" });}
+    res.status(200).json({ status: "API is running" })};
 
 
 
